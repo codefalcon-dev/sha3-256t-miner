@@ -3,8 +3,12 @@
 ## How to use
 
 1. Double-click `codefalcon-sha3-256t-v4.0-win64.exe`.
-2. Fill in `stratum+tcp://: host/ip` and `Port: 3357`. `Address/Username: bc1address-sample` and `Diff/Password: x or d=1`.
-4. Click `Start`.
+2. Fill in:
+   - `stratum+tcp:// host/ip`
+   - `Port: 3357`
+   - `Address/Username: bc1address-sample`
+   - `Diff/Password: x` or `d=1`
+3. Click `Start`.
 
 ## Quick checklist
 
@@ -19,11 +23,12 @@
 - No extra backend executable is required.
 - NVIDIA GPU and NVIDIA driver are required.
 - The app saves settings automatically.
+- If you have more than one GPU and want to mine on multiple GPUs, open one miner instance per GPU. For example, if you have 2 GPUs, open 2 miner windows. If you have 4 GPUs, open 4 miner windows.
 
 ## If mining does not start
 
-- Re-check `stratum+tcp://: host/ip` and `Port: 3357`.
-- Re-check `Address/Username: bc1addresssamble` and `Diff/Password: d=1`.
+- Re-check the pool host/ip and `Port: 3357`.
+- Re-check `Address/Username: bc1address-sample` and `Diff/Password: d=1`.
 - Try another pool endpoint.
 - Restart the app after changing GPU driver settings.
 
