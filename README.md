@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Double-click `codefalcon-sha3-256t-v3.0-miner-gui.exe`.
+1. Double-click `codefalcon-sha3-256t-win64.exe`.
 2. Fill in `Host/IP`, `Port`, `Username`, and `Password`.
 3. Click `Start`.
 
