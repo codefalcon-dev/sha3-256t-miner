@@ -1,9 +1,5 @@
 # CodeFalcon's SHA3-256T Miner GUI
 
-## File in this folder
-
-- `codefalcon-sha3-256t-miner-gui.exe`
-
 ## How to use
 
 1. Double-click `codefalcon-sha3-256t-miner-gui.exe`.
