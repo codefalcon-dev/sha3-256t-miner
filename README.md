@@ -30,3 +30,8 @@
 - Re-check `Username` and `Password`.
 - Try another pool endpoint.
 - Restart the app after changing GPU driver settings.
+
+## Recommended pool
+
+- Dashboard: https://pythonpool.dev/dash/?coin=bc3
+- Stratum: stratum+tcp://stratum.pythonpool.dev:3357
