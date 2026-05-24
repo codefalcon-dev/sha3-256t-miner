@@ -3,8 +3,8 @@
 ## How to use
 
 1. Double-click `codefalcon-sha3-256t-v4.0-win64.exe`.
-2. Fill in `stratum+tcp://: host/ip` and `Port: 3357`. `Address/Username: bc1addresssamble` and `Diff/Password: d=1`.
-3. Click `Start`.
+2. Fill in `stratum+tcp://: host/ip` and `Port: 3357`. `Address/Username: bc1address-sample` and `Diff/Password: d=1`.
+4. Click `Start`.
 
 ## Quick checklist
 
