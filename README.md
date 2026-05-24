@@ -3,7 +3,7 @@
 ## How to use
 
 1. Double-click `codefalcon-sha3-256t-v4.0-win64.exe`.
-2. Fill in `Host/IP`, `Port`, `Username`, and `Password`.
+2. Fill in `stratum+tcp://: host/ip` and `Port: 3357`. `Address/Username: bc1addresssamble` and `Diff/Password: d=1`.
 3. Click `Start`.
 
 ## Quick checklist
@@ -22,8 +22,8 @@
 
 ## If mining does not start
 
-- Re-check `Host/IP` and `Port`.
-- Re-check `Username` and `Password`.
+- Re-check `stratum+tcp://: host/ip` and `Port: 3357`.
+- Re-check `Address/Username: bc1addresssamble` and `Diff/Password: d=1`.
 - Try another pool endpoint.
 - Restart the app after changing GPU driver settings.
 
