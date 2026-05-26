@@ -1,4 +1,4 @@
-# CodeFalcon's SHA3-256T Miner Windows GUI
+# CodeFalcon's SHA3-256T Miner Windows GUI & Linux non-GUI
 
 ## How to use
 
