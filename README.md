@@ -2,6 +2,8 @@
 
 ## How to use
 
+## Windows Miner (NVIDIA, GUI)
+
 1. Double-click `Codefalcon-SHA3-256T-Miner-v6.0-win64.exe`.
 2. Fill in:
    - `stratum+tcp:// host/ip`
