@@ -2,13 +2,22 @@
 
 ## How to use
 
-1. Double-click `codefalcon-sha3-256t-v4.0-win64.exe`.
+1. Double-click `Codefalcon-SHA3-256T-Miner-v6.0-win64.exe`.
 2. Fill in:
    - `stratum+tcp:// host/ip`
    - `Port: 3357`
    - `Address/Username: bc1address-sample`
    - `Diff/Password: x` or `d=1`
 3. Click `Start`.
+
+## Linux Miner (NVIDIA, non-GUI)
+
+- Added Linux release package for SHA3-256T mining.
+- Release asset: CodeFalcon-SHA3-256T-Miner-v6.0-Linux.tar.gz
+- Included binary: sha3-256t-miner
+- GPU device selection supported with --devices IDX (also accepts -devices IDX).
+- Example:
+	./sha3-256t-miner -a sha3-256t -o stratum+tcp://stratum.pythonpool.dev:3357 -u YOUR_WALLET.YOUR_WORKER -p x --devices 0
 
 ## Quick checklist
 
